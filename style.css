@@ -9,6 +9,12 @@ a {
 }
 
 h1 {
-	font-family: monospace;
+	text-align: center;
+	font-family: "didot", serif;
 	font-size: 30px;
+}
+
+h5 {
+	font-family: "didot", serif;
+	font-size: 15px;
 }
