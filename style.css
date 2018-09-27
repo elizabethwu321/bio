@@ -1,6 +1,5 @@
 body {
-	background-color: rgb(205, 191, 183);
-	background-color: ##cdbfb7;
+	background-color: #6699ff;
 	color: white;
 }
 
@@ -17,4 +16,9 @@ h1 {
 h5 {
 	font-family: "didot", serif;
 	font-size: 15px;
+}
+
+h6 {
+	font-family: "Avenir", sans-serif;
+	font-size: 50px;
 }
